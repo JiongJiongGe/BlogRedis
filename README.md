@@ -1,0 +1,2 @@
+# BlogRedis
+Redis和ReentrantLock 实现多个线程无法同时修改Redis内的值，避免出现过期或脏数据
